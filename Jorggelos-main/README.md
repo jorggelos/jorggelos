@@ -6,11 +6,11 @@
 <div><br>
     <a href="#">
         <img align="center" alt="Kiaz0r-Stats" title="Estatísticas do GitHub" height="180em"
-            src="https://github-readme-stats.vercel.app/api?username=Kiaz0r&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
+            src="https://github-readme-stats.vercel.app/api?username=Jorggelos&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
     </a>
     <a href="#">
         <img align="center" alt="Kiaz0r-Languages" title="Linguagens mais usadas" height="180em"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiaz0r&hide=PowerShell&layout=compact&theme=dark" />
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorggelos&hide=PowerShell&layout=compact&theme=dark" />
     </a>
 </div>
 
