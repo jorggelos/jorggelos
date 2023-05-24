@@ -6,7 +6,7 @@
 <div><br>
     <a href="#">
         <img align="center" alt="Jorggelos-Stats" title="Estatísticas do GitHub" height="180em"
-            src="https://github-readme-stats.vercel.app/api?username=Jorggelos&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
+            src="https://github-readme-stats.vercel.app/api?username=jorggelos&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
     </a>
     <a href="#">
         <img align="center" alt="Jorggelos-Languages" title="Linguagens mais usadas" height="180em"
