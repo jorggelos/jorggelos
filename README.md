@@ -36,6 +36,8 @@
             src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=50&color=currentColor">
         <img align="center" alt="Jorggelos-Vuejs" title="Vuejs" height="30" width="50"
             src="https://icongr.am/devicon/vuejs-original.svg?size=50&color=currentColor">
+         <img align="center" alt="Jorggelos-React" title="React" height="30" width="50"
+            src="https://icongr.am/devicon/react-original.svg?size=50&color=currentColor">
     </a>
 </div>
 
