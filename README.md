@@ -5,10 +5,6 @@
 
 <div><br>
     <a href="#">
-        <img align="center" alt="Jorggelos-Stats" title="Estatísticas do GitHub" height="180em"
-            src="https://github-readme-stats.vercel.app/api?username=jorggelos&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
-    </a>
-    <a href="#">
         <img align="center" alt="Jorggelos-Languages" title="Linguagens mais usadas" height="180em"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorggelos&hide=PowerShell&layout=compact&theme=dark" />
     </a>
@@ -32,7 +28,7 @@
             src="https://icongr.am/devicon/angularjs-original-wordmark.svg?size=50&color=currentColor">
         <img align="center" alt="Jorggelos-Git" title="Git" height="30" width="50"
             src="https://icongr.am/devicon/gitlab-original.svg?size=50&color=currentColor">
-        <img align="center" alt="Jorggelos-Nodajs" title="NodaJS" height="30" width="50"
+        <img align="center" alt="Jorggelos-Nodejs" title="NodaJS" height="30" width="50"
             src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=50&color=currentColor">
         <img align="center" alt="Jorggelos-Vuejs" title="Vuejs" height="30" width="50"
             src="https://icongr.am/devicon/vuejs-original.svg?size=50&color=currentColor">
