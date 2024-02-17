@@ -18,24 +18,20 @@
 
 <div style="display: inline_block">
     <a href="#">
-        <img align="center" alt="Jorggelos-CSS" title="CSS" height="30" width="50"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-        <img align="center" alt="Jorggelos-HTML" title="HTML" height="30" width="50"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
         <img align="center" alt="Jorggelos-JavaScript" title="JavaScript" height="30" width="50"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
         <img align="center" alt="Jorggelos-Android" title="Android" height="30" width="50"
             src="https://icongr.am/devicon/android-original.svg?size=50&color=currentColor">
         <img align="center" alt="Jorggelos-Angularjs" title="AngularJS" height="30" width="50"
-            src="https://icongr.am/devicon/angularjs-original-wordmark.svg?size=50&color=currentColor">
+            src="https://icongr.am/devicon/devicon/angularjs-original.svg?size=128&color=currentColor">
         <img align="center" alt="Jorggelos-Git" title="Git" height="30" width="50"
             src="https://icongr.am/devicon/gitlab-original.svg?size=50&color=currentColor">
         <img align="center" alt="Jorggelos-Nodejs" title="NodaJS" height="30" width="50"
             src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=50&color=currentColor">
-        <img align="center" alt="Jorggelos-Vuejs" title="Vuejs" height="30" width="50"
-            src="https://icongr.am/devicon/vuejs-original.svg?size=50&color=currentColor">
          <img align="center" alt="Jorggelos-React" title="React" height="30" width="50"
             src="https://icongr.am/devicon/react-original.svg?size=50&color=currentColor">
+                 <img align="center" alt="Jorggelos-TypeScript" title="TS" height="30" width="50"
+            src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor">
     </a>
 </div>
 
