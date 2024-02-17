@@ -23,7 +23,7 @@
         <img align="center" alt="Jorggelos-Android" title="Android" height="30" width="50"
             src="https://icongr.am/devicon/android-original.svg?size=50&color=currentColor">
         <img align="center" alt="Jorggelos-Angularjs" title="AngularJS" height="30" width="50"
-            src="https://icongr.am/devicon/devicon/angularjs-original.svg?size=128&color=currentColor">
+            src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor">
         <img align="center" alt="Jorggelos-Git" title="Git" height="30" width="50"
             src="https://icongr.am/devicon/gitlab-original.svg?size=50&color=currentColor">
         <img align="center" alt="Jorggelos-Nodejs" title="NodaJS" height="30" width="50"
