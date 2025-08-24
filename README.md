@@ -1,7 +1,7 @@
 ### 👋🏻 Olá, eu sou o Jorge
 
 - 📫 Contato: [jl.jorgelos@hotmail.com](mailto:jl.jorgelos@hotmail.com)
-- 💼 Desenvolvedor Front-end React | Formado em Análise e Desenvolvimento de Sistemas
+- 💼 Desenvolvedor Front-end | Formado em Análise e Desenvolvimento de Sistemas
 
 ---
 
