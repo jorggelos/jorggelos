@@ -7,36 +7,28 @@
 
 ### 📊 GitHub
 
-<!-- Dois cards lado a lado no estilo claro, com A+ -->
 <table>
   <tr>
-    <td align="center">
+    <td>
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jorggelos&theme=github"
         alt="GitHub Stats"
-        width="420"
+        width="400"
       />
     </td>
-    <td align="center">
+    <td>
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jorggelos&theme=github"
         alt="Most Used Languages"
-        width="420"
+        width="400"
       />
     </td>
   </tr>
 </table>
 
-<!-- 
-  Dicas:
-  - Se quiser menor, troque width="420" por 380 ou 360 (em ambos).
-  - Outro tema claro bom: theme=default ou theme=solarized
--->
-
 ---
 
 ### 🚀 Tecnologias
-
 <div style="display:inline_block"><br/>
   <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
