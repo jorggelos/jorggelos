@@ -28,8 +28,6 @@
   </tr>
 </table>
 
-<!-- Dica: ajuste width para 380/420 nos DOIS cards se quiser menor/maior. -->
-
 ---
 
 ### 🚀 Tecnologias
@@ -49,10 +47,6 @@
 ### 🔗 Contatos
 
 <p align="center">
-  <a href="mailto:jl.jorgelos@hotmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/GMAIL-333333?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/jorge-luis-193237202/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
