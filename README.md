@@ -21,21 +21,21 @@
 
 ### 📊 GitHub
 
-<div align="center" style="display:flex; gap:10px; flex-wrap:wrap; justify-content:center;">
+<div align="center" style="display:flex; gap:10px; justify-content:center; flex-wrap:wrap;">
 
-  <a href="https://github.com/jorggelos" style="text-decoration:none;">
+  <a href="https://github.com/jorggelos" style="text-decoration:none; flex:1; min-width:300px; max-width:320px;">
     <img
       alt="GitHub Stats"
       src="https://github-readme-stats.vercel.app/api?username=jorggelos&show_icons=true&theme=dark&rank_icon=github&hide_border=true&v=2"
-      style="max-width:380px; width:100%; flex-basis:380px;"
+      style="width:100%;"
     />
   </a>
 
-  <a href="https://github.com/jorggelos" style="text-decoration:none;">
+  <a href="https://github.com/jorggelos" style="text-decoration:none; flex:1; min-width:300px; max-width:320px;">
     <img
       alt="Top Languages"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorggelos&theme=dark&hide=PowerShell&layout=compact&hide_border=true&v=2"
-      style="max-width:380px; width:100%; flex-basis:380px;"
+      style="width:100%;"
     />
   </a>
 </div>
