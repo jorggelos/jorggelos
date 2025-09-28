@@ -10,21 +10,25 @@
 <table>
   <tr>
     <td>
+      <!-- CARD COM O "A+" -->
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jorggelos&theme=github"
+        src="https://github-readme-stats.vercel.app/api?username=jorggelos&show_icons=true&theme=default&rank_icon=github&hide_border=true&cache_seconds=1800&v=3"
         alt="GitHub Stats"
         width="400"
       />
     </td>
     <td>
+      <!-- GRÁFICO EM BARRA (Top Languages) -->
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jorggelos&theme=github"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorggelos&layout=compact&theme=default&hide_border=true&hide=PowerShell&cache_seconds=1800&v=3"
         alt="Most Used Languages"
         width="400"
       />
     </td>
   </tr>
 </table>
+
+<!-- Dica: ajuste width para 380/420 nos DOIS cards se quiser menor/maior. -->
 
 ---
 
