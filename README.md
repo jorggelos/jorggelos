@@ -20,18 +20,14 @@
 ---
 
 ### 📊 GitHub
-<!-- 
-  Ajuste de tamanho:
-  - Troque max-width e flex-basis para aumentar/diminuir os cards.
-  - Ex.: max-width: 520px; flex-basis: 520px; deixa maior.
--->
-<div align="center" style="display:flex; gap:12px; flex-wrap:wrap; justify-content:center;">
+
+<div align="center" style="display:flex; gap:10px; flex-wrap:wrap; justify-content:center;">
 
   <a href="https://github.com/jorggelos" style="text-decoration:none;">
     <img
       alt="GitHub Stats"
       src="https://github-readme-stats.vercel.app/api?username=jorggelos&show_icons=true&theme=dark&rank_icon=github&hide_border=true&v=2"
-      style="max-width:480px; width:100%; flex-basis:480px;"
+      style="max-width:380px; width:100%; flex-basis:380px;"
     />
   </a>
 
@@ -39,16 +35,10 @@
     <img
       alt="Top Languages"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorggelos&theme=dark&hide=PowerShell&layout=compact&hide_border=true&v=2"
-      style="max-width:480px; width:100%; flex-basis:480px;"
+      style="max-width:380px; width:100%; flex-basis:380px;"
     />
   </a>
 </div>
-
-<!-- Dicas rápidas:
- - Se quiser os cards MENOR, use max-width:420px
- - Se quiser MAIOR, use max-width:540px ou 560px
- - Para forçar 2 colunas sempre, mantenha flex-basis igual ao max-width 
--->
 
 ---
 
