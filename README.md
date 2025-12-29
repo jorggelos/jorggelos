@@ -5,23 +5,6 @@
 
 ---
 
-### 📊 GitHub
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=jorggelos&show_icons=true&rank_icon=github&hide_border=true"
-    alt="GitHub Stats"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorggelos&layout=compact&hide_border=true"
-    alt="Most Used Languages"
-    height="165"
-  />
-</p>
-
----
-
 ### 🚀 Tecnologias
 
 <p align="center">
